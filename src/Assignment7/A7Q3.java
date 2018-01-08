@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class A7Q3 {
 public void factors(int dividers){
     
-}
+} 
     /**
      * @param args the command line arguments
      */
